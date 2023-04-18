@@ -2,7 +2,7 @@ Primeiro repositorio.
 
 Desafio de Projeto sobre Git/GifHub
 
-Tabuad
+Tabuada 
 
 Este exemplo pede ao usuário que informe um número inteiro. Logo após, utiliza um laço de repetição do tipo "para", para calcular e exibir a tabuada do número informado.
 
